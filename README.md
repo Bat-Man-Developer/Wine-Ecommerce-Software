@@ -1,4 +1,4 @@
-### Mary Rose Website Version Control 👋
+### Mary Rose Website Version Control 🍷
 
 <h1>1. Payment Integration</h1>
 <h1>2. Email Integration</h1>
